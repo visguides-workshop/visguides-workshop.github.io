@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# VisGuides: 
+## 4th IEEE Workshop on Visualization Guidelines Visualization Guidelines in Research, Design, and Education
 
-You can use the [editor on GitHub](https://github.com/visguides-workshop/visguides-workshop.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Workshop at [IEEE VIS](http://ieeevis.org/year/2022/welcome), October, Oklahoma City, USA
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Benjamin Bach](https://vishub.net/bach.html), University of Edinburgh
 
-### Markdown
+[Alfie Abdul-Rahman](http://www.thisisalfie.com/), King’s College London
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Alexandra Diehl](https://www.ifi.uzh.ch/en/vmml/people/current-staff/diehl.html), University of Zurich
 
-```markdown
-Syntax highlighted code block
+## About
 
-# Header 1
-## Header 2
-### Header 3
+The VisGuides 2022 Workshop focuses on the analysis, design, reflection, and discussion of applicable frameworks to mastering guidelines in visualization by the broader visualization community, embedded in a larger research agenda of visualization theory and practices.
 
-- Bulleted
-- List
+This workshop follows-up the ideas from the IEEE VIS 2016, [2018](https://c4pgv.dbvis.de/), and [2020](https://nms.kcl.ac.uk/c4pgv/) Workshop on Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization (C4PGV).
 
-1. Numbered
-2. List
+We propose the VisGuides workshop as a forum to foster constructive discussions around guidelines in visualization and how the academic VIS community disseminates and discusses its findings. Their understanding and operationalization are important not only for academics, but also for practitioners alike, who are tasked to make design trade-offs, problem-solving, and justify decisions. Moreover, guidelines are essential for teaching and learning about visualization. Questions this workshop wants to address include:
 
-**Bold** and _Italic_ and `Code` text
+- What visualization guidelines exist and how do we (as a scientific community) collect and disseminate them? 
 
-[Link](url) and ![Image](src)
-```
+- How do we apply and discuss guidelines in daily-work practice, in design, in advising, and in teaching? 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- What is the role of visualization knowledge and guidelines in the wild, i.e., outside the scientific community? 
 
-### Jekyll Themes
+- How to scrutinize empirical knowledge and make a discussion around guidelines public?  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/visguides-workshop/visguides-workshop.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- What are types of guidelines, guidance, and how do we formalize visualization knowledge? 
 
-### Support or Contact
+## Team 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Workshop Co-chairs 
+
+Benjamin Bach, University of Edinburgh 
+
+Alfie Abdul-Rahman, King’s College London 
+
+Alexandra Diehl, University of Zurich 
+
+### Webmaster 
+
+Gabriel Dias Cantareira 
+
+
