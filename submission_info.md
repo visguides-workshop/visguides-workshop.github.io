@@ -4,8 +4,6 @@ layout: page
 permalink: /submissions
 ---
 
-# Call for Papers
-
 ## Submission Information
 
 This workshop features 2 types of submissions. Please carefully read the respective instructions. Submission topics include, but are not limited to:
@@ -33,7 +31,7 @@ This workshop features 2 types of submissions. Please carefully read the respect
 
 ### Short Paper
 
-2 pages + references in the IEEE VIS Style
+2 pages + references in the [IEEE VIS Style](https://tc.computer.org/vgtc/publications/journal/)
 
 Submission deadline: August 12 (Friday, midnight PDT)
 
@@ -46,7 +44,7 @@ Publication through ArXiv and the workshop website
 
 ### Long Paper
 
-6 pages + references in the IEEE VIS Style. 
+6 pages + references in the [IEEE VIS Style](https://tc.computer.org/vgtc/publications/journal/) 
 
 Submission deadline July 22 (Friday, midnight PDT)
 
