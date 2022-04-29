@@ -1,5 +1,9 @@
-# VisGuides: 
-## 4th IEEE Workshop on Visualization Guidelines Visualization Guidelines in Research, Design, and Education
+---
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: VisGuides
+layout: page
+---
+# 4th IEEE Workshop on Visualization Guidelines Visualization Guidelines in Research, Design, and Education
 
 Workshop at [IEEE VIS](http://ieeevis.org/year/2022/welcome), October, Oklahoma City, USA
 
@@ -27,9 +31,13 @@ We propose the VisGuides workshop as a forum to foster constructive discussions 
 
 - What are types of guidelines, guidance, and how do we formalize visualization knowledge? 
 
+## Submissions
+
+Please check [here](/submissions) for submission information.
+
 ## Team 
 
-### Workshop Co-chairs 
+# Workshop Co-chairs 
 
 Benjamin Bach, University of Edinburgh 
 
@@ -37,8 +45,8 @@ Alfie Abdul-Rahman, King’s College London
 
 Alexandra Diehl, University of Zurich 
 
-### Webmaster 
+# Webmaster 
 
-Gabriel Dias Cantareira 
+Gabriel Dias Cantareira, King's College London
 
 
