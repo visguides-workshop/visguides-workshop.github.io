@@ -6,7 +6,7 @@ permalink: /submissions
 
 ## Submission Information
 
-This workshop features 2 types of submissions. Please carefully read the respective instructions. Submission topics include, but are not limited to:
+This workshop features 3 types of submissions. Please carefully read the respective instructions. Submission topics include, but are not limited to:
 
 - Comparative analysis of guidelines for visual representation, requirements, and gap analysis of principles and guidelines for one or more visualization tasks (or application domains)
 
@@ -53,4 +53,42 @@ Notification: August 8 (Monday)
 Camera ready: August 19 (Friday) 
 
 Publication through IEEE Digital Library
+
+### Guideline Report
+
+6 pages + references, in the [IEEE VIS Style](https://tc.computer.org/vgtc/publications/journal/) 
+
+Submission deadline: August 12 (Friday, midnight PDT)
+
+Notification: August 29 (Monday)
+
+Camera ready: 12 September (Monday)
+
+Published on ArXiv and the workshop website
+
+Report example format: 
+- Title of the guideline that is proposed or discussed.
+- Guideline description
+- Background
+- Supporting elements
+- Arguments (common sense)
+- Study evidence
+- Design examples
+- Rejecting elements
+- Arguments (common sense)
+- Study evidence
+- Design examples
+- Discussion
+- Implications / Considerations
+- Ethical
+- Practical
+- Technical
+- Conclusions
+- Summary-box
+- Title
+- Description
+- Supporting (max 3 bullet points)
+- Contra (max 3 bullet points)
+- Discussions (max 2 bullet points)
+- References
 
