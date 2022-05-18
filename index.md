@@ -1,5 +1,4 @@
 ---
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: VisGuides
 layout: page
 ---
@@ -31,6 +30,10 @@ We propose the VisGuides workshop as a forum to foster constructive discussions 
 
 - What are types of guidelines, guidance, and how do we formalize visualization knowledge? 
 
+This workshop also features an open call for being part of the program committee (PC) to provide an opportunity to advocate for guidelines in a broad range of topics. If you would like to get involved, contact bbach@ed.ac.uk.
+
+The workshop will be held in a hybrid format. You can attend online or in person though we hope that  you can join us in-person. Online sessions will be synchronous with the in-person workshop.
+
 ## Submissions
 
 Please check [here](/submissions) for submission information.
@@ -44,6 +47,14 @@ Benjamin Bach, University of Edinburgh
 Alfie Abdul-Rahman, King’s College London 
 
 Alexandra Diehl, University of Zurich 
+
+# Advisory Board
+
+Min Chen, University of Oxford
+
+Daniel Keim, University of Konstanz
+
+Renato Pajarola, University of Zurich
 
 # Webmaster 
 
