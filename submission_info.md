@@ -6,7 +6,7 @@ permalink: /submissions
 
 ## Submission Information
 
-This workshop features 3 types of submissions. Please carefully read the respective instructions. Submission topics include, but are not limited to:
+This workshop features 3 types of submissions: short papers, long papers, and guideline reports. Please carefully read the respective instructions below. Submission topics include, but are not limited to:
 
 - Comparative analysis of guidelines for visual representation, requirements, and gap analysis of principles and guidelines for one or more visualization tasks (or application domains)
 
