@@ -1,7 +1,10 @@
 ---
-title: VisGuides
+
 layout: page
 ---
+
+![VisGuides](/visguides-workshop-logo.png){:class="img-responsive"}
+
 # 4th IEEE Workshop on Visualization Guidelines Visualization Guidelines in Research, Design, and Education
 
 Workshop at [IEEE VIS](http://ieeevis.org/year/2022/welcome), October, Oklahoma City, USA
