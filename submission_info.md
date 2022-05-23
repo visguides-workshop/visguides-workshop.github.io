@@ -61,7 +61,7 @@ Size: 6 pages + references, in the [IEEE VIS Style](https://tc.computer.org/vgtc
 
 Please add the [LONG] label to your submission title in PCS.
 
-Submission deadline July 22 (Friday, midnight PDT)
+Submission deadline: July 22 (Friday, midnight PDT)
 
 Notification: August 14 (Sunday, midnight PDT)
 

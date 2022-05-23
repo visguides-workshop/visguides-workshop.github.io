@@ -9,6 +9,8 @@ layout: page
 
 Workshop at [IEEE VIS](http://ieeevis.org/year/2022/welcome), October, Oklahoma City, USA
 
+Deadline for submissions: July 22 (midnight, PDT)
+
 ## About
 The VisGuides 2022 Workshop focuses on the analysis, design, reflection, and discussion of applicable frameworks to mastering guidelines in visualization by the broader visualization community, embedded in a larger research agenda of visualization theory and practices. It follows-up the ideas from the IEEE VIS 2016, [2018](https://c4pgv.dbvis.de/), and [2020](https://nms.kcl.ac.uk/c4pgv/) Workshop on Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization (C4PGV).
 
