@@ -46,9 +46,9 @@ Size: 2 pages + references, in the [IEEE VIS Style](https://tc.computer.org/vgtc
 
 Please add the [SHORT] label to your submission title in PCS.
 
-Submission deadline: July 22 (Sunday, midnight PDT)
+Submission deadline: August 5 (Sunday, midnight PDT)
 
-Notification: August 14 (Monday, midnight PDT)
+Notification: August 15 (Monday, midnight PDT)
 
 Camera ready: August 21 (Sunday, midnight PDT) 
 
@@ -61,9 +61,9 @@ Size: 6 pages + references, in the [IEEE VIS Style](https://tc.computer.org/vgtc
 
 Please add the [LONG] label to your submission title in PCS.
 
-Submission deadline: July 22 (Friday, midnight PDT)
+Submission deadline: August 5 (Friday, midnight PDT)
 
-Notification: August 14 (Sunday, midnight PDT)
+Notification: August 15 (Monday, midnight PDT)
 
 Camera ready: August 21 (Sunday, midnight PDT)
 
@@ -76,9 +76,9 @@ Publication through IEEE Digital Library
 
 Please add the [REPORT] label to your submission title in PCS.
 
-Submission deadline: July 22 (Sunday, midnight PDT)
+Submission deadline: August 5 (Sunday, midnight PDT)
 
-Notification: August 14 (Sunday, midnight PDT)
+Notification: August 15 (Monday, midnight PDT)
 
 Camera ready: August 21 (Sunday, midnight PDT)
 

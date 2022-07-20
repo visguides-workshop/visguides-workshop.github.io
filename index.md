@@ -5,7 +5,7 @@ layout: page
 
 ![VisGuides](/visguides-workshop-logo.png){:class="img-responsive"}
 
-# 4th IEEE Workshop on Visualization Guidelines Visualization Guidelines in Research, Design, and Education
+# 4th IEEE Workshop on Visualization Guidelines in Research, Design, and Education
 
 Workshop at [IEEE VIS](http://ieeevis.org/year/2022/welcome), October, Oklahoma City, USA
 
@@ -76,6 +76,26 @@ Min Chen, University of Oxford
 Daniel Keim, University of Konstanz
 
 Renato Pajarola, University of Zurich
+
+# Program Committee
+
+Lane Harrison, Worcester Polytechnic Institute
+
+Robert Laramee, University of Nottingham
+
+Nadia Boukhelifa, Université Paris-Saclay
+
+Ulrich Engelke, Commonwealth Scientific and Industrial Research Organisation
+
+Sara Di Bartolomeo, Northeastern University
+
+Eser Kandogan, Megagon Labs
+
+Arzu Çöltekin, University of Applied Sciences & Arts Northwestern Switzerland
+
+Andrew McNutt, University of Chicago
+
+Georges Hattab, University of Marburg
 
 # Webmaster 
 
