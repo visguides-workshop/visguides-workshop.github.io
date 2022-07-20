@@ -79,23 +79,23 @@ Renato Pajarola, University of Zurich
 
 # Program Committee
 
-Lane Harrison, Worcester Polytechnic Institute
-
-Robert Laramee, University of Nottingham
-
-Nadia Boukhelifa, Université Paris-Saclay
-
-Ulrich Engelke, Commonwealth Scientific and Industrial Research Organisation
-
-Sara Di Bartolomeo, Northeastern University
-
-Eser Kandogan, Megagon Labs
+Andrew McNutt, University of Chicago
 
 Arzu Çöltekin, University of Applied Sciences & Arts Northwestern Switzerland
 
-Andrew McNutt, University of Chicago
+Eser Kandogan, Megagon Labs
 
 Georges Hattab, University of Marburg
+
+Lane Harrison, Worcester Polytechnic Institute
+
+Nadia Boukhelifa, Université Paris-Saclay
+
+Robert Laramee, University of Nottingham
+
+Sara Di Bartolomeo, Northeastern University
+
+Ulrich Engelke, Commonwealth Scientific and Industrial Research Organisation
 
 # Webmaster 
 
