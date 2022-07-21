@@ -7,7 +7,7 @@ layout: page
 
 # 4th IEEE Workshop on Visualization Guidelines in Research, Design, and Education
 
-Workshop at [IEEE VIS](http://ieeevis.org/year/2022/welcome), October, Oklahoma City, USA
+Workshop at [IEEE VIS](http://ieeevis.org/year/2022/welcome), October 17, Oklahoma City, USA
 
 Deadline for submissions: August 5 (midnight, PDT)
 
