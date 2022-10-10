@@ -132,7 +132,7 @@ Submit your work and ideas as either a short paper, long paper, or a guideline r
 
 [Benjamin Bach](https://vishub.net/bach.html), University of Edinburgh
 
-[Alfie Abdul-Rahman](http://www.thisisalfie.com/), King’s College London
+[Alfie Abdul-Rahman](https://alfieabdulrahman.github.io/), King’s College London
 
 [Alexandra Diehl](https://www.ifi.uzh.ch/en/vmml/people/current-staff/diehl.html), University of Zurich
 
