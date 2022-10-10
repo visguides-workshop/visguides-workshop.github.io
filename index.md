@@ -123,7 +123,7 @@ All times are UTC-5 (USA Central Time).
         <tr>
             <td>15:45-17:00</td>
             <td>
-                <strong>Breakout groups & discussions</strong>
+                <strong>Breakout groups & discussions</strong><br>
                 <strong>Suggested breakout groups:</strong>
                 <ul>
                     <li>Teaching and education</li>
