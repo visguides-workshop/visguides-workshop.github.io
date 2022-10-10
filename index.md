@@ -102,7 +102,7 @@ All times are UTC-5 (USA Central Time).
                         Mennatallah El-Assady, Rebecca Kehlbeck, Yannick Metz, Udo Schlegel, Rita Sevastjanova, Fabian Sperrle, Thilo Spinner
                     </li>
                     <li>
-                        <strong><a href="https://arxiv.org/abs/2209.09807">Reflections and Considerations on Running Creative Visualization Learning Activities | In Person</a></strong><br>
+                        <strong><a href="https://arxiv.org/abs/2209.09807">Reflections and Considerations on Running Creative Visualization Learning Activities</a></strong><br>
                         Jonathan Roberts, Benjamin Bach, Magdalena Boucher, Fanny Chevalier, Alexandra Diehl, Uta Hinrichs, Samuel Huron, Andy Kirk, Søren Knudsen, Isabel Meirelles, Rebecca Noonan, Laura Pelchmann, Fateme Rajabiyazdi, Christina Stoiber
                     </li>
                     <li>
