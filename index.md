@@ -110,7 +110,7 @@ All times are UTC-5 (USA Central Time).
                         Edward He, Daniel Tolessa, Ashley Suh, Remco Chang
                     </li>
                     <li>
-                        <strong>Considering the Role of Guidelines in Visualization Design Practice</strong><br>
+                        <strong><a href="https://osf.io/mw376/">Considering the Role of Guidelines in Visualization Design Practice</a></strong><br>
                         Paul Parsons
                     </li>
                 </ul>
