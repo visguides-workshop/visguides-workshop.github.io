@@ -44,16 +44,83 @@ The IEEE VIS VisGuides workshop is a forum for constructive discussions around g
 
 - To raise questions about the ethical, practical, and technical implications of establishing guidelines for visualization; Broadening the discussion of guidelines to applications and educational contexts
 
-## Schedule (Preliminary)
+## Schedule
 
-- Keynote
-- Paper presentations
-- Group discussion (possible breakout groups)
-    - Collecting & curating guidelines
-    - Application in education
-    - Research in the wild
-    - Social dynamics and operationalization 
-- Wrap-up
+All times are UTC-5 (USA Central Time).
+
+### Session 1 (Monday, 17 October 2022)
+
+<table>
+    <colgroup>
+        <col style="width:20%">
+        <col style="width:80%">
+    </colgroup>
+    <tbody>
+        <tr>
+            <td>14:00 - 14:05</td>
+            <td>
+                <strong>Opening Presentation (In person)</strong><br>
+                Benjamin Bach
+            </td>
+        </tr>
+        <tr>
+            <td>14:05 - 14:30</td>
+            <td>
+                <strong>Keynote Presentation (Virtual)</strong><br>
+                Sheelagh Carpendale
+            </td>
+        </tr>
+        <tr>
+            <td>14:30 - 14:50</td>
+            <td>
+                <strong>Paper Presentations (Virtual)</strong><br>
+                <ul>
+                    <li>
+                        <strong><a href="https://hal.archives-ouvertes.fr/hal-03775272v1">Supporting Domain Characterization in Visualization Design Studies With the Critical Decision Method</a></strong><br>
+                        Lena Cibulski, Evanthia Dimara, Setia Hermawati, Jörn Kohlhammer
+                    </li>
+                    <li>
+                        <strong><a href="https://drive.google.com/file/d/1ycHosdfFdvDDEgHz4kScMHQxrDgDbZ1_/view">How should we design violin plots?</a></strong><br>
+                        Elena Molina, Laia Viale, Pere-Pau Vázquez
+                    </li>
+                    <li>
+                        <strong><a href="http://coltekin.net/arzu/publications/coltekin_goodman_shortpaper_IEEE_visguides.pdf">Guiding visualization practice with questions: 10qviz.org</a></strong><br>
+                        Arzu Çöltekin, Alyssa Goodman
+                    </li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>14:50 - 15:15</td>
+            <td>
+                <strong>Paper Presentations (In person)</strong><br>
+                <ul>
+                    <li>
+                        <strong><a href="https://drive.google.com/file/d/1hp-DS3VwSaHT5aMlbVeWoTgnJX9EjJPk/view">Semantic Color Mapping: A Pipeline for Assigning Meaningful Colors to Text</a></strong><br>
+                        Mennatallah El-Assady, Rebecca Kehlbeck, Yannick Metz, Udo Schlegel, Rita Sevastjanova, Fabian Sperrle, Thilo Spinner
+                    </li>
+                    <li>
+                        <strong><a href="https://arxiv.org/abs/2209.09807">Reflections and Considerations on Running Creative Visualization Learning Activities | In Person</a></strong><br>
+                        Jonathan Roberts, Benjamin Bach, Magdalena Boucher, Fanny Chevalier, Alexandra Diehl, Uta Hinrichs, Samuel Huron, Andy Kirk, Søren Knudsen, Isabel Meirelles, Rebecca Noonan, Laura Pelchmann, Fateme Rajabiyazdi, Christina Stoiber
+                    </li>
+                    <li>
+                        <strong><a href="https://drive.google.com/file/d/1BkgkRRuRd6eSm4-gsX9QFznZZaaF__Y0/view">Analysis Without Data: Teaching Students to Tackle the Vast Challenge</a></strong><br>
+                        Edward He, Daniel Tolessa, Ashley Suh, Remco Chang
+                    </li>
+                    <li>
+                        <strong>Considering the Role of Guidelines in Visualization Design Practice</strong><br>
+                        Paul Parsons
+                    </li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>15:15-15:45</td>
+            <td><strong>Break</strong></td>
+        </tr>
+    </tbody>
+</table>
+
 
 ## Submissions
 
