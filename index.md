@@ -50,7 +50,7 @@ The IEEE VIS VisGuides workshop is a forum for constructive discussions around g
 
 All times are UTC-5 (USA Central Time).
 
-### Session 1 (Monday, 17 October 2022)
+### Monday, 17 October 2022 - Oklahoma Station 7
 
 <table>
     <colgroup>
