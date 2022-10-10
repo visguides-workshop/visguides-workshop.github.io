@@ -120,6 +120,10 @@ All times are UTC-5 (USA Central Time).
             <td>15:15-15:45</td>
             <td><strong>Break</strong></td>
         </tr>
+        <tr>
+            <td>15:45-17:00</td>
+            <td><strong>Breakout groups & discussions</strong></td>
+        </tr>
     </tbody>
 </table>
 
