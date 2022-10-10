@@ -122,7 +122,15 @@ All times are UTC-5 (USA Central Time).
         </tr>
         <tr>
             <td>15:45-17:00</td>
-            <td><strong>Breakout groups & discussions</strong></td>
+            <td>
+                <strong>Breakout groups & discussions</strong>
+                <strong>Suggested breakout groups:</strong>
+                <ul>
+                    <li>Teaching and education</li>
+                    <li>Guidelines and vis practices in the wild</li>
+                    <li>Collection and operationalization</li>
+                </ul>
+            </td>
         </tr>
     </tbody>
 </table>
