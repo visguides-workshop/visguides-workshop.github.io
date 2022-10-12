@@ -111,7 +111,7 @@ All times are UTC-5 (USA Central Time).
                     </li>
                     <li>
                         <strong><a href="https://osf.io/mw376/">Considering the Role of Guidelines in Visualization Design Practice</a></strong><br>
-                        Paul Parsons
+                        Paul Parsons, Prakash Shukla
                     </li>
                 </ul>
             </td>
