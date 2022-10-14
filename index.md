@@ -135,6 +135,14 @@ All times are UTC-5 (USA Central Time).
     </tbody>
 </table>
 
+## Keynote
+
+### Best Practices Considered Harmful (some of the time)
+
+<strong>Abstract:</strong> I will start by discussing the differences and nuances among the concepts of Best Practices, Guidelines, Lessons Learnt, and Heuristics, pointing out frequently ignored pitfalls  and potentially looming pain points. I will discuss how the pendulum between advantages and disadvantages, can be mitigated by individual attitudes and actions.  
+
+
+<strong>Bio:</strong> Sheelagh Carpendale is a Canada Research Chair in Data Visualization at Simon Fraser University. Her many awards include: the IEEE Visualization Career Award, an NSERC STEACIE (a Canadian Top Science Award); a BAFTA (British Academy of Film & Television Arts – similar to an Oscar in USA), Best Supervision Awards, the Canadian HCI Achievement Award as well as industrial awards. She is a Fellow in the Royal Society of Scientists and has been inducted into the both IEEE Visualization Academy and the ACM CHI Academy.  Her research focuses on data visualization, interaction design, and qualitative empirical research. By studying how people interact with data or information both in work and social settings, she works towards designing more natural, accessible and understandable interactive visual representations of data. She combines data visualization and human-computer interaction with innovative new interaction techniques to better support the everyday practices of people who are viewing, representing, and interacting with information. Her research in data visualization and interaction design draws on her complex background in Computer Science (BSc. and Ph.D. Simon Fraser University) and Visual Arts (Sheridan College, School of Design and Emily Carr, College of Art).
 
 ## Submissions
 
