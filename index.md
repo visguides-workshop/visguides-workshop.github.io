@@ -69,7 +69,7 @@ All times are UTC-5 (USA Central Time).
             <td>14:05 - 14:30</td>
             <td>
                 <strong>Keynote Presentation (Virtual)</strong><br>
-                Best Practices Considered Harmful (some of the time)<br>
+                <strong>Best Practices Considered Harmful (some of the time)</strong><br>
                 Sheelagh Carpendale
             </td>
         </tr>
