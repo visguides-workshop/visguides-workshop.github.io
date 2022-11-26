@@ -175,7 +175,7 @@ Arzu Çöltekin, University of Applied Sciences & Arts Northwestern Switzerland
 
 Eser Kandogan, Megagon Labs
 
-Georges Hattab, University of Marburg
+Georges Hattab, Robert Koch Institute
 
 Lane Harrison, Worcester Polytechnic Institute
 
