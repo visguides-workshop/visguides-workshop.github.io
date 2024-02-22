@@ -3,22 +3,19 @@
 layout: page
 ---
 
-![VisGuides](/visguides-workshop-logo.png){:class="img-responsive"}
-
-# 4th IEEE Workshop on Visualization Guidelines in Research, Design, and Education
+# 5th IEEE Workshop on Visualization Guidelines in Research, Design, and Education
 
 Workshop at [IEEE VIS](http://ieeevis.org/year/2022/welcome), October 17, Oklahoma City, USA
 
-Deadline for submissions: August 5 (midnight, PDT)
+Deadline for submissions: June 28th (midnight, Anywhere on Earth)
 
-Check schedule [here](#schedule).
+Check the schedule [soon]
 
 ## About
-The VisGuides 2022 Workshop focuses on the analysis, design, reflection, and discussion of applicable frameworks to mastering guidelines in visualization by the broader visualization community, embedded in a larger research agenda of visualization theory and practices. It follows-up the ideas from the IEEE VIS 2016, [2018](https://c4pgv.dbvis.de/), and [2020](https://nms.kcl.ac.uk/c4pgv/) Workshop on Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization (C4PGV).
+The VisGuides 2024 Workshop focuses on the analysis, design, reflection, and discussion of applicable frameworks to mastering guidelines in visualization by the broader visualization community, embedded in a larger research agenda of visualization theory and practices. It follows up the ideas from the IEEE VIS 2016, [2018](https://c4pgv.dbvis.de/), [2020](https://nms.kcl.ac.uk/c4pgv/) Workshop on Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization (C4PGV).
 
-The workshop also features an open call for being part of the program committee (PC) to provide an opportunity to advocate for guidelines in a broad range of topics. If you would like to get involved, contact bbach (at) ed.ac.uk.
+The workshop also features an open call for being part of the program committee (PC) to provide an opportunity to advocate for guidelines on a broad range of topics. If you want to get involved, contact diehl (at) ifi.uzh.ch.
 
-The workshop will be held in a hybrid format. You can attend online or in person though we hope that  you can join us in-person. Online sessions will be synchronous with the in-person workshop.
 
 ### Topics and Scope
 
@@ -38,126 +35,27 @@ The IEEE VIS VisGuides workshop is a forum for constructive discussions around g
 
 ### Goals
 
-- Illustrating the use of best practices and guidelines in the wild as seen from the VIS community and practitioners, through discussions among the presenters and the audience.Collecting, reflecting and discussing a survey of well-known guidelines from the presenters and the audience through interactive activities, examples, and submissions
+- Illustrate the use of best practices and guidelines in the wild as seen from the VIS community and practitioners through discussions among the presenters and the audience.Collecting, reflecting, and discussing a survey of well-known guidelines from the presenters and the audience through interactive activities, examples, and submissions
 
-- Constructing an open and democratic discussion about principles, guidelines, recommendations, based on the presented evidence (including examples of their uses and misuses), critique (including revision and improvement) and conditioning (i.e., education, training, and deployment) compiling the lessons learned from the usage of those guidelines
+- Constructing an open and democratic discussion about principles, guidelines, and recommendations, based on the presented evidence (including examples of their uses and misuses), critique (including revision and improvement), and conditioning (i.e., education, training, and deployment), compiling the lessons learned from the usage of those guidelines
 
-- Discussing ideas and proposals of feasible approaches towards the formalization of visualization guidelines, with an impact beyond the scientific visualization community; This is an important point as more and more visualization designs are created outside the scientific community and the community must reinforce the efforts to publicize their study results
+- Discussing ideas and proposals of feasible approaches towards formalizing visualization guidelines with an impact beyond the scientific visualization community. This is an important point as more and more visualization designs are created outside the scientific community, and the community must reinforce the efforts to publicize their study results
 
 - To raise questions about the ethical, practical, and technical implications of establishing guidelines for visualization; Broadening the discussion of guidelines to applications and educational contexts
 
-## Schedule
-
-All times are UTC-5 (USA Central Time).
-
-### Monday, 17 October 2022 - Oklahoma Station 7
-
-<table>
-    <colgroup>
-        <col style="width:20%">
-        <col style="width:80%">
-    </colgroup>
-    <tbody>
-        <tr>
-            <td>14:00 - 14:05</td>
-            <td>
-                <strong>Opening Presentation (In person)</strong><br>
-                Benjamin Bach
-            </td>
-        </tr>
-        <tr>
-            <td>14:05 - 14:30</td>
-            <td>
-                <strong>Keynote Presentation (Virtual)</strong><br>
-                <strong>Best Practices Considered Harmful (some of the time)</strong><br>
-                Sheelagh Carpendale
-            </td>
-        </tr>
-        <tr>
-            <td>14:30 - 14:50</td>
-            <td>
-                <strong>Paper Presentations (Virtual)</strong><br>
-                <ul>
-                    <li>
-                        <strong><a href="https://hal.archives-ouvertes.fr/hal-03775272v1">Supporting Domain Characterization in Visualization Design Studies With the Critical Decision Method</a></strong><br>
-                        Lena Cibulski, Evanthia Dimara, Setia Hermawati, Jörn Kohlhammer
-                    </li>
-                    <li>
-                        <strong><a href="https://drive.google.com/file/d/1ycHosdfFdvDDEgHz4kScMHQxrDgDbZ1_/view">How should we design violin plots?</a></strong><br>
-                        Elena Molina, Laia Viale, Pere-Pau Vázquez
-                    </li>
-                    <li>
-                        <strong><a href="http://coltekin.net/arzu/publications/coltekin_goodman_shortpaper_IEEE_visguides.pdf">Guiding visualization practice with questions: 10qviz.org</a></strong><br>
-                        Arzu Çöltekin, Alyssa Goodman
-                    </li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>14:50 - 15:15</td>
-            <td>
-                <strong>Paper Presentations (In person)</strong><br>
-                <ul>
-                    <li>
-                        <strong><a href="https://drive.google.com/file/d/1hp-DS3VwSaHT5aMlbVeWoTgnJX9EjJPk/view">Semantic Color Mapping: A Pipeline for Assigning Meaningful Colors to Text</a></strong><br>
-                        Mennatallah El-Assady, Rebecca Kehlbeck, Yannick Metz, Udo Schlegel, Rita Sevastjanova, Fabian Sperrle, Thilo Spinner
-                    </li>
-                    <li>
-                        <strong><a href="https://arxiv.org/abs/2209.09807">Reflections and Considerations on Running Creative Visualization Learning Activities</a></strong><br>
-                        Jonathan Roberts, Benjamin Bach, Magdalena Boucher, Fanny Chevalier, Alexandra Diehl, Uta Hinrichs, Samuel Huron, Andy Kirk, Søren Knudsen, Isabel Meirelles, Rebecca Noonan, Laura Pelchmann, Fateme Rajabiyazdi, Christina Stoiber
-                    </li>
-                    <li>
-                        <strong><a href="https://drive.google.com/file/d/1BkgkRRuRd6eSm4-gsX9QFznZZaaF__Y0/view">Analysis Without Data: Teaching Students to Tackle the Vast Challenge</a></strong><br>
-                        Edward He, Daniel Tolessa, Ashley Suh, Remco Chang
-                    </li>
-                    <li>
-                        <strong><a href="https://osf.io/mw376/">Considering the Role of Guidelines in Visualization Design Practice</a></strong><br>
-                        Paul Parsons, Prakash Shukla
-                    </li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>15:15-15:45</td>
-            <td><strong>Break</strong></td>
-        </tr>
-        <tr>
-            <td>15:45-17:00</td>
-            <td>
-                <strong>Breakout Groups & Discussions</strong><br>
-                Suggested breakout groups:
-                <ul>
-                    <li>Teaching and education</li>
-                    <li>Guidelines and vis practices in the wild</li>
-                    <li>Collection and operationalization</li>
-                </ul>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-## Keynote
-
-### Best Practices Considered Harmful (some of the time)
-
-<strong>Abstract:</strong> I will start by discussing the differences and nuances among the concepts of Best Practices, Guidelines, Lessons Learnt, and Heuristics, pointing out frequently ignored pitfalls  and potentially looming pain points. I will discuss how the pendulum between advantages and disadvantages, can be mitigated by individual attitudes and actions.  
-
-
-<strong>Bio:</strong> Sheelagh Carpendale is a Canada Research Chair in Data Visualization at Simon Fraser University. Her many awards include: the IEEE Visualization Career Award, an NSERC STEACIE (a Canadian Top Science Award); a BAFTA (British Academy of Film & Television Arts – similar to an Oscar in USA), Best Supervision Awards, the Canadian HCI Achievement Award as well as industrial awards. She is a Fellow in the Royal Society of Scientists and has been inducted into the both IEEE Visualization Academy and the ACM CHI Academy.  Her research focuses on data visualization, interaction design, and qualitative empirical research. By studying how people interact with data or information both in work and social settings, she works towards designing more natural, accessible and understandable interactive visual representations of data. She combines data visualization and human-computer interaction with innovative new interaction techniques to better support the everyday practices of people who are viewing, representing, and interacting with information. Her research in data visualization and interaction design draws on her complex background in Computer Science (BSc. and Ph.D. Simon Fraser University) and Visual Arts (Sheridan College, School of Design and Emily Carr, College of Art).
-
 ## Submissions
 
-Submit your work and ideas as either a short paper, long paper, or a guideline report discussing a guideline, its empirical evidence, application, and limitations. Become part of a vibrant half-day workshop that will bring together an exciting program with papers and discussions on the future of guidelines in visualization. Please check [here](/submissions) for submission information.
+Submit your work and ideas as either a short paper (4-6 pager) discussing guidelines in the wild, applications in design practice, and limitations. Become part of a vibrant half-day workshop that will bring together an exciting program with papers and discussions on the future of guidelines in visualization.  
 
 ## Team 
 
 # Workshop Co-chairs 
 
-[Benjamin Bach](https://vishub.net/bach.html), University of Edinburgh
+[Alexandra Diehl](https://www.ifi.uzh.ch/en/vmml/people/current-staff/diehl.html), University of Zurich
 
 [Alfie Abdul-Rahman](https://alfieabdulrahman.github.io/), King’s College London
 
-[Alexandra Diehl](https://www.ifi.uzh.ch/en/vmml/people/current-staff/diehl.html), University of Zurich
+[Yong Wang] (https://faculty.smu.edu.sg/profile/wang-yong-531), Singapore Management University
 
 # Advisory Board
 
@@ -167,28 +65,10 @@ Daniel Keim, University of Konstanz
 
 Renato Pajarola, University of Zurich
 
+Melanie Tory, Northeastern University
+
 # Program Committee
 
-Andrew McNutt, University of Chicago
-
-Arzu Çöltekin, University of Applied Sciences & Arts Northwestern Switzerland
-
-Eser Kandogan, Megagon Labs
-
-Georges Hattab, Robert Koch Institute
-
-Lane Harrison, Worcester Polytechnic Institute
-
-Nadia Boukhelifa, Université Paris-Saclay
-
-Robert Laramee, University of Nottingham
-
-Sara Di Bartolomeo, Northeastern University
-
-Ulrich Engelke, Commonwealth Scientific and Industrial Research Organisation
-
-# Webmaster 
-
-Gabriel Dias Cantareira, King's College London
+To be announced.
 
 
