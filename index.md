@@ -5,7 +5,7 @@ layout: page
 
 # 5th IEEE Workshop on Visualization Guidelines in Research, Design, and Education
 
-Workshop at [IEEE VIS](http://ieeevis.org/year/2022/welcome), October 17, Oklahoma City, USA
+Workshop at [IEEE VIS](http://ieeevis.org/year/2022/welcome), October 13-18, St. Pete Beach, Florida, USA
 
 Deadline for submissions: June 28th (midnight, Anywhere on Earth)
 
@@ -55,7 +55,7 @@ Submit your work and ideas as either a short paper (4-6 pager) discussing guidel
 
 [Alfie Abdul-Rahman](https://alfieabdulrahman.github.io/), King’s College London
 
-[Yong Wang] (https://faculty.smu.edu.sg/profile/wang-yong-531), Singapore Management University
+[Yong Wang](https://faculty.smu.edu.sg/profile/wang-yong-531), Singapore Management University
 
 # Advisory Board
 
