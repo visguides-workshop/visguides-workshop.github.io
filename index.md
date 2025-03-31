@@ -3,16 +3,16 @@
 layout: page
 ---
 
-# 5th IEEE Workshop on Visualization Guidelines in Research, Design, and Education
+# VisGuides 5th Edition: Evolving Visualization Guidelines Beyond Conventional Practices
 
-Workshop at [IEEE VIS](http://ieeevis.org/year/2022/welcome), October 17, Oklahoma City, USA
+Workshop at [IEEE VIS](https://ieeevis.org/), November 2 to 7 in Vienna, Austria
 
-Deadline for submissions: June 28th (midnight, Anywhere on Earth)
+Deadline for submissions: TBA (midnight, Anywhere on Earth)
 
 Check the schedule [soon]
 
 ## About
-The VisGuides 2024 Workshop focuses on the analysis, design, reflection, and discussion of applicable frameworks to mastering guidelines in visualization by the broader visualization community, embedded in a larger research agenda of visualization theory and practices. It follows up the ideas from the IEEE VIS 2016, [2018](https://c4pgv.dbvis.de/), [2020](https://nms.kcl.ac.uk/c4pgv/) Workshop on Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization (C4PGV).
+The VisGuides 2025 Workshop focuses on the analysis, design, reflection, and discussion of applicable frameworks to mastering guidelines in visualization by the broader visualization community, embedded in a larger research agenda of visualization theory and practices. It follows up the ideas from the previous workshops at IEEE VIS 2016, [2018](https://c4pgv.dbvis.de/), [2020](https://nms.kcl.ac.uk/c4pgv/) Workshop on Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization (C4PGV), and [2022] (https://virtual.ieeevis.org/year/2022/session_w-visguides-1.html) 4th IEEE Workshop on Visualization Guidelines Visualization Guidelines in Research, Design, and Education.
 
 The workshop also features an open call for being part of the program committee (PC) to provide an opportunity to advocate for guidelines on a broad range of topics. If you want to get involved, contact diehl (at) ifi.uzh.ch.
 
@@ -51,21 +51,17 @@ Submit your work and ideas as either a short paper (4-6 pager) discussing guidel
 
 # Workshop Co-chairs 
 
-[Alexandra Diehl](https://www.ifi.uzh.ch/en/vmml/people/current-staff/diehl.html), University of Zurich
+[Alexandra Diehl](https:/alexandra-diehl.science), Southern University of Denmark
 
 [Alfie Abdul-Rahman](https://alfieabdulrahman.github.io/), King’s College London
 
-[Yong Wang] (https://faculty.smu.edu.sg/profile/wang-yong-531), Singapore Management University
+[Yong Wang] (https://yong-wang.org/), Nanyang Technological University, Singapore 
 
 # Advisory Board
 
 Min Chen, University of Oxford
 
 Daniel Keim, University of Konstanz
-
-Renato Pajarola, University of Zurich
-
-Melanie Tory, Northeastern University
 
 # Program Committee
 
