@@ -55,7 +55,7 @@ Submit your work and ideas as either a short paper (4-6 pager) discussing guidel
 
 [Alfie Abdul-Rahman](https://alfieabdulrahman.github.io/), King’s College London
 
-[Yong Wang] (https://yong-wang.org/), Nanyang Technological University, Singapore 
+[Yong Wang](https://yong-wang.org/), Nanyang Technological University, Singapore 
 
 # Advisory Board
 
